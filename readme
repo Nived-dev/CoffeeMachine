@@ -2,7 +2,6 @@
 
 A simple **Python-based Coffee Machine simulation** that lets users order espresso, latte, or cappuccino.  
 The program checks ingredient availability, processes payments with virtual coins, returns change, and updates remaining resources — just like a real coffee machine!
-
 ---
 
 ## 🧠 Project Overview
@@ -12,7 +11,6 @@ It was built to practice:
 - Conditional statements  
 - Dictionaries and nested data structures  
 - Resource management and logic flow
-
 ---
 
 ## 🚀 Features
@@ -23,7 +21,6 @@ It was built to practice:
 ✅ Dynamic inventory updates  
 ✅ “Report” command to view current resources  
 ✅ “Off” command to stop the machine  
-
 ---
 
 ## 🧩 How It Works
