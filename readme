@@ -1,0 +1,31 @@
+# ☕ Coffee Machine Project
+
+A simple **Python-based Coffee Machine simulation** that lets users order espresso, latte, or cappuccino.  
+The program checks ingredient availability, processes payments with virtual coins, returns change, and updates remaining resources — just like a real coffee machine!
+
+---
+
+## 🧠 Project Overview
+This project is part of the **100 Days of Code – Python** challenge.  
+It was built to practice:
+- Functions and loops  
+- Conditional statements  
+- Dictionaries and nested data structures  
+- Resource management and logic flow
+
+---
+
+## 🚀 Features
+✅ Menu options: **Espresso, Latte, Cappuccino**  
+✅ Resource check (water, milk, coffee)  
+✅ Coin-based payment system (quarters, dimes, nickels, pennies)  
+✅ Automatic change calculation  
+✅ Dynamic inventory updates  
+✅ “Report” command to view current resources  
+✅ “Off” command to stop the machine  
+
+---
+
+## 🧩 How It Works
+1. Run the program.
+2. Type the drink you’d like:  
